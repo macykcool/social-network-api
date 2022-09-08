@@ -30,13 +30,13 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 Clone repo, npm i, npm start and open in your API route tester
  
 ## Demo Preview
-![api demo](./gif/apidemo.gif)
+![api demo](./assets/gif/api.png)
 
 ## Github Repository
 https://github.com/macykcool/social-network-api
 
 ## Demo Video
-
+https://drive.google.com/file/d/1kbqW4YMHMRU8FLnENSrbb3cAIomPtqrj/view
 
 ## Made with ❤️️ by Macy Mannix
 Mentored by UC Davis Full Stack Web Developer Bootcamp
